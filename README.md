@@ -15,7 +15,7 @@
 
 🔭 Eu sou um desenvolvedor de software full-stack entusiasta da programação desde os 12 anos. Sou apaixonado por criar soluções inovadoras e aprender novas tecnologias.
 
-⚡ Atualmente, ponho em prática minha admiração pela tecnologia em prática através da minha agência de desenvolvimento de software, a Agência Kepler Digital.
+⚡ Atualmente, ponho em prática minha admiração pela tecnologia através da minha agência de desenvolvimento de software, a Agência Kepler Digital.
 
 ## Habilidades
 
